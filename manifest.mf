@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+X-COMMENT: Main-Class will be added automatically by build
+Class-Path: libs/AbsoluteLayout.jar libs/jcommon-1.0.23.jar libs/jfreechart-1.0.19.jar libs/jfreechart-1.0.19-swt.jar
+
